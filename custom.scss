@@ -1,0 +1,204 @@
+/*-- scss:defaults --*/
+$body-bg: #140f10;
+$body-color: #f4ecec;
+$link-color: #f07178;
+$primary: #f07178;
+$secondary: #3d2b2c;
+$dark: rgba(29, 21, 22, 0.85);
+$gray-900: #140f10;
+$gray-800: #1d1516;
+$text-muted: #b39e9e;
+
+$font-family-sans-serif: "Outfit", system-ui, -apple-system, sans-serif;
+$font-family-monospace: "Fira Code", "JetBrains Mono", monospace;
+$headings-font-weight: 800;
+
+/* Code block variables */
+$code-bg: #0a0708;
+$code-color: #f4ecec;
+$pre-color: #f4ecec;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap');
+
+::selection {
+  background: $primary;
+  color: #140f10;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: $body-bg;
+  border-left: 1px dashed $secondary;
+}
+::-webkit-scrollbar-thumb {
+  background: $secondary;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: $primary;
+}
+
+body {
+  font-family: "Georgia", serif;
+  line-height: 1.75;
+  /* Indie dotted background pattern */
+  background-color: $body-bg;
+  background-image: radial-gradient(rgba(61, 43, 44, 0.6) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
+  font-family: $font-family-sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Glassmorphism Navbar */
+.navbar {
+  background-color: $dark !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 2px dashed $primary;
+}
+
+/* Sidenotes */
+.margin-caption, .margin-ref, .aside, marginnote, sidenote {
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: $text-muted;
+  border-left: 3px dotted $secondary;
+  padding-left: 0.8rem;
+  transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.margin-caption:hover, .margin-ref:hover, .aside:hover {
+  color: #f4ecec;
+  border-color: $primary;
+  transform: translateX(4px);
+}
+
+/* Code blocks */
+pre, code {
+  font-family: $font-family-monospace;
+}
+
+pre {
+  background-color: $code-bg !important;
+  border: 2px solid $secondary;
+  border-radius: 0px;
+  padding: 1rem;
+  box-shadow: 4px 4px 0px $primary;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+pre:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px $primary;
+}
+
+pre.sourceCode {
+  background-color: $code-bg !important;
+}
+
+/* Links */
+a {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: $secondary;
+  text-underline-offset: 4px;
+  transition: all 0.2s;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration-color: $link-color;
+  color: $link-color;
+  text-decoration-style: solid;
+}
+
+/* Cards & Containers */
+.quarto-title-block .quarto-title {
+  color: #f4ecec;
+  text-shadow: 2px 2px 0px rgba(240, 113, 120, 0.4);
+}
+
+.quarto-title-banner {
+  background-color: transparent !important;
+  border-bottom: 2px dashed $primary;
+  margin-bottom: 2rem;
+}
+
+.quarto-title-block.default .quarto-title-meta {
+  color: $primary;
+  font-family: $font-family-sans-serif;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+}
+
+/* TOC */
+#TOC {
+  border-left: 2px dashed $secondary;
+  padding-left: 1rem;
+}
+
+#TOC ul {
+  font-family: $font-family-sans-serif;
+}
+#TOC a {
+  text-decoration: none;
+}
+#TOC a:hover {
+  transform: translateX(4px);
+  display: inline-block;
+}
+
+/* Post Listings (Cards) if they exist */
+.quarto-listing .listing-item {
+  border: 2px solid $secondary;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background-color: $body-bg;
+  transition: all 0.2s;
+}
+.quarto-listing .listing-item:hover {
+  transform: translate(-4px, -4px);
+  box-shadow: 6px 6px 0px $primary;
+  border-color: $primary;
+}
+
+/* Tags / Categories */
+.listing-category, .quarto-category {
+  font-family: $font-family-sans-serif !important;
+  font-weight: 800 !important;
+  text-transform: uppercase;
+  font-size: 0.7rem !important;
+  padding: 0.25rem 0.5rem !important;
+  border: 1px solid $secondary !important;
+  border-radius: 0 !important;
+  background-color: $body-bg !important;
+  color: $text-muted !important;
+  box-shadow: 2px 2px 0px $secondary !important;
+  transition: all 0.2s !important;
+  margin-right: 0.5rem !important;
+  cursor: pointer;
+  display: inline-block !important;
+}
+
+.listing-category:hover, .quarto-category:hover {
+  background-color: $primary !important;
+  color: #140f10 !important;
+  border-color: $primary !important;
+  box-shadow: 4px 4px 0px $secondary !important;
+  transform: translate(-2px, -2px) !important;
+}
+
+/* Right sidebar categories list */
+.quarto-listing-category-title {
+  font-family: $font-family-sans-serif;
+  color: $primary;
+  text-transform: uppercase;
+}

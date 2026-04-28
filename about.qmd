@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andres-david-h-ab498197/
+    - icon: github
+      text: Github
+      href: https://github.com/WolfDan
+
+---
+
+Hello! I'm a programmer that likes building things from the ground up. This blog is my personal archive — a blank book slowly filling up with engine architecture, language design, and the inevitable debugging sessions in between. Whether you're here to read about game engines, systems programming, game development, or just observe the process, welcome to the record.

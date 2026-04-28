@@ -1,0 +1,30 @@
+---
+title: "Welcome To My Blog! & My thoughts and approach to AI"
+date: "2026-04-27"
+categories: [thoughts, AI]
+---
+
+This is my first blog post. Welcome!
+
+![*Sayonara no Asa ni Yakusoku no Hana o Kazarō*](maquia.png)
+
+This is my first step into writing things, english is not my first language but I always try to keep my grammar in check.^[Feel free to correct me please!]
+
+Over the last couple years of my carreer I've been obssessed with learning and implementing things from the ground up, and latelly I've been interested on applying to Oxide Computer, given their culture of documentation I decided to open this blog, not because I never wrote before but because I did but never on this format, most of my toughts were logs on my personal notes and I want to change that.^[In fact I tend to over document my code, to the point I always review things before pushing so there's not that much text. It always helped me organize my toughts and help me find a better path at solving things]
+
+
+## My thoughts and approach to AI
+
+This blog is also an experiment for me to use AI. ^[I want to clarify and ensure that absolutely everything written in this blog is (and always will be) made by me, so no AI at all in the text you read now or ever]
+
+I use AI only for building the actual project from scratch using it, all the Quarto theme, setup and such is made by AI, honesly I hate all AI workflows, I never get it to do it the way I like it and most of the time is easier for me just write it myself.
+
+On an interesting note the CI and Nix code is made by me, AI was unhelpful here in the past and it was simple enough and faster for me to just write it myself.
+
+Given my stance on AI, I made a restriction for this blog tech in general, I want to use AI to build it and see how far I can go until I find myself having an informed understanding of it, because so far I don't have anything good to say about it^[This is only in regard to coding with AI. I find AI extremelly useful for learning and I use it all the time for that purpose]
+
+---
+
+This is a short post, in fact mainly as an introduction and tought excercise, I have more things to say regarding AI but as I mentioned I want to have more informed opinion first before writting about it.
+
+Soon I'll be posting more complete and interesting topics! So stay tuned for it!

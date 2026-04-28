@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  description: "History is made by those who record it. This blog serves as my personal archive, documenting my journey through software development and system architecture."
+  site-url: https://WolfDan.github.io 
+  title: "The Blank Book"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/WolfDan
+format:
+  html:
+    theme: custom.scss
+    css: styles.css
+    reference-location: margin
+    citation-location: margin
+    grid:
+      body-width: 800px
+      margin-width: 350px
+      gutter-width: 1.5rem
