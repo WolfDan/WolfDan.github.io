@@ -12,17 +12,16 @@
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Wed, 29 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Creating a Game Engine for Online Games, by creating a new programming language! What???</title>
-  <link>https://wolfdan.github.io/posts/new_language/</link>
+  <title>Creating a Game Engine, by creating a new programming language???</title>
+  <link>https://wolfdan.github.io/posts/new_game_engine/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Accompany me on this descent into madness!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://wolfdan.github.io/posts/new_language/serial.png" class="img-fluid figure-img"></p>
+<p><img src="https://wolfdan.github.io/posts/new_game_engine/serial.png" class="img-fluid figure-img"></p>
 <figcaption><em>Serial Experiments Lain</em></figcaption>
 </figure>
 </div>
@@ -232,9 +231,9 @@
   <category>language development</category>
   <category>game development</category>
   <category>systems engineering</category>
-  <guid>https://wolfdan.github.io/posts/new_language/</guid>
+  <guid>https://wolfdan.github.io/posts/new_game_engine/</guid>
   <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://wolfdan.github.io/posts/new_language/serial.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://wolfdan.github.io/posts/new_game_engine/serial.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Welcome To My Blog! &amp; My thoughts and approach to AI</title>
