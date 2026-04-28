@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false
 
       - name: Audit project with zizmor
-        uses: zizmorcore/zizmor-action@2eaf42bcccfed62978cee0905902acbc294d5123 # 1.24.1
+        uses: zizmorcore/zizmor-action@b1d7e1fb5de872772f31590499237e7cce841e8e # 0.5.3
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # 2.2.0
