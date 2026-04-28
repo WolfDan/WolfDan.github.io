@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>The Blank Book</title>
-<link>https://WolfDan.github.io/</link>
-<atom:link href="https://WolfDan.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://wolfdan.github.io/</link>
+<atom:link href="https://wolfdan.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>History is made by those who record it. This blog serves as my personal archive, documenting my journey through software development and system architecture.</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Wed, 29 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Creating a Game Engine for Online Games, by creating a new programming language! What???</title>
-  <link>https://WolfDan.github.io/posts/new_language/</link>
+  <link>https://wolfdan.github.io/posts/new_language/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 <p>Accompany me on this descent into madness!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://WolfDan.github.io/posts/new_language/serial.png" class="img-fluid figure-img"></p>
+<p><img src="https://wolfdan.github.io/posts/new_language/serial.png" class="img-fluid figure-img"></p>
 <figcaption><em>Serial Experiments Lain</em></figcaption>
 </figure>
 </div>
@@ -232,12 +232,13 @@
   <category>language development</category>
   <category>game development</category>
   <category>systems engineering</category>
-  <guid>https://WolfDan.github.io/posts/new_language/</guid>
+  <guid>https://wolfdan.github.io/posts/new_language/</guid>
   <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://wolfdan.github.io/posts/new_language/serial.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Welcome To My Blog! &amp; My thoughts and approach to AI</title>
-  <link>https://WolfDan.github.io/posts/welcome/</link>
+  <link>https://wolfdan.github.io/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -246,7 +247,7 @@
 <p>This is my first blog post. Welcome!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://WolfDan.github.io/posts/welcome/maquia.png" class="img-fluid figure-img"></p>
+<p><img src="https://wolfdan.github.io/posts/welcome/maquia.png" class="img-fluid figure-img"></p>
 <figcaption><em>Sayonara no Asa ni Yakusoku no Hana o Kazarō</em></figcaption>
 </figure>
 </div>
@@ -269,7 +270,7 @@
  ]]></description>
   <category>thoughts</category>
   <category>AI</category>
-  <guid>https://WolfDan.github.io/posts/welcome/</guid>
+  <guid>https://wolfdan.github.io/posts/welcome/</guid>
   <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
