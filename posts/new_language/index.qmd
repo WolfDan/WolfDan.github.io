@@ -1,6 +1,8 @@
 ---
 title: "Creating a Game Engine for Online Games, by creating a new programming language! What???"
+description: "Accompany me on this descent into madness!"
 date: "2026-04-29"
+image: "serial.png"
 categories: [story time, language development, game development, systems engineering]
 ---
 

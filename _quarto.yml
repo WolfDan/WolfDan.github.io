@@ -3,8 +3,9 @@ project:
 
 website:
   description: "History is made by those who record it. This blog serves as my personal archive, documenting my journey through software development and system architecture."
-  site-url: https://WolfDan.github.io
+  site-url: https://wolfdan.github.io
   title: "The Blank Book"
+  open-graph: true
   navbar:
     right:
       - about.qmd
