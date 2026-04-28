@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/new_language/index.html",
       "/posts/welcome/index.html"
     ]
   }
