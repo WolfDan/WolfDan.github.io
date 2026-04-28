@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m a programmer that likes building things from the ground up. This blog is my personal archive — a blank book slowly filling up with engine architecture, language design, and the inevitable debugging sessions in between. Whether you’re here to read about game engines, systems programming, game development, or just observe the process, welcome to the record."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome To My Blog! & My thoughts and approach to AI\n\n\n\nthoughts\n\nAI\n\n\n\n\n\n\n\n\n\n\nApr 27, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog! & My thoughts and approach to AI",
+    "section": "",
+    "text": "This is my first blog post. Welcome!\nThis is my first step into writing things, english is not my first language but I always try to keep my grammar in check.1\nOver the last couple years of my carreer I’ve been obssessed with learning and implementing things from the ground up, and latelly I’ve been interested on applying to Oxide Computer, given their culture of documentation I decided to open this blog, not because I never wrote before but because I did but never on this format, most of my toughts were logs on my personal notes and I want to change that.2"
+  },
+  {
+    "objectID": "posts/welcome/index.html#my-thoughts-and-approach-to-ai",
+    "href": "posts/welcome/index.html#my-thoughts-and-approach-to-ai",
+    "title": "Welcome To My Blog! & My thoughts and approach to AI",
+    "section": "My thoughts and approach to AI",
+    "text": "My thoughts and approach to AI\nThis blog is also an experiment for me to use AI. 3\n3 I want to clarify and ensure that absolutely everything written in this blog is (and always will be) made by me, so no AI at all in the text you read now or everI use AI only for building the actual project from scratch using it, all the Quarto theme, setup and such is made by AI, honesly I hate all AI workflows, I never get it to do it the way I like it and most of the time is easier for me just write it myself.\nOn an interesting note the CI and Nix code is made by me, AI was unhelpful here in the past and it was simple enough and faster for me to just write it myself.\nGiven my stance on AI, I made a restriction for this blog tech in general, I want to use AI to build it and see how far I can go until I find myself having an informed understanding of it, because so far I don’t have anything good to say about it4\n4 This is only in regard to coding with AI. I find AI extremelly useful for learning and I use it all the time for that purpose\nThis is a short post, in fact mainly as an introduction and tought excercise, I have more things to say regarding AI but as I mentioned I want to have more informed opinion first before writting about it.\nSoon I’ll be posting more complete and interesting topics! So stay tuned for it!"
+  }
+]

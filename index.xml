@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>The Blank Book</title>
+<link>https://WolfDan.github.io/</link>
+<atom:link href="https://WolfDan.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>History is made by those who record it. This blog serves as my personal archive, documenting my journey through software development and system architecture.</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Mon, 27 Apr 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome To My Blog! &amp; My thoughts and approach to AI</title>
+  <link>https://WolfDan.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is my first blog post. Welcome!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://WolfDan.github.io/posts/welcome/maquia.png" class="img-fluid figure-img"></p>
+<figcaption><em>Sayonara no Asa ni Yakusoku no Hana o Kazarō</em></figcaption>
+</figure>
+</div>
+<p>This is my first step into writing things, english is not my first language but I always try to keep my grammar in check.<sup>1</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Feel free to correct me please!</p></div><div id="fn2"><p><sup>2</sup>&nbsp;In fact I tend to over document my code, to the point I always review things before pushing so there’s not that much text. It always helped me organize my toughts and help me find a better path at solving things</p></div></div><p>Over the last couple years of my carreer I’ve been obssessed with learning and implementing things from the ground up, and latelly I’ve been interested on applying to Oxide Computer, given their culture of documentation I decided to open this blog, not because I never wrote before but because I did but never on this format, most of my toughts were logs on my personal notes and I want to change that.<sup>2</sup></p>
+<section id="my-thoughts-and-approach-to-ai" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="my-thoughts-and-approach-to-ai">My thoughts and approach to AI</h2>
+<p>This blog is also an experiment for me to use AI. <sup>3</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;I want to clarify and ensure that absolutely everything written in this blog is (and always will be) made by me, so no AI at all in the text you read now or ever</p></div></div><p>I use AI only for building the actual project from scratch using it, all the Quarto theme, setup and such is made by AI, honesly I hate all AI workflows, I never get it to do it the way I like it and most of the time is easier for me just write it myself.</p>
+<p>On an interesting note the CI and Nix code is made by me, AI was unhelpful here in the past and it was simple enough and faster for me to just write it myself.</p>
+<p>Given my stance on AI, I made a restriction for this blog tech in general, I want to use AI to build it and see how far I can go until I find myself having an informed understanding of it, because so far I don’t have anything good to say about it<sup>4</sup></p>
+<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;This is only in regard to coding with AI. I find AI extremelly useful for learning and I use it all the time for that purpose</p></div></div><hr>
+<p>This is a short post, in fact mainly as an introduction and tought excercise, I have more things to say regarding AI but as I mentioned I want to have more informed opinion first before writting about it.</p>
+<p>Soon I’ll be posting more complete and interesting topics! So stay tuned for it!</p>
+
+
+</section>
+
+
+ ]]></description>
+  <category>thoughts</category>
+  <category>AI</category>
+  <guid>https://WolfDan.github.io/posts/welcome/</guid>
+  <pubDate>Mon, 27 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
